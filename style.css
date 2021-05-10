@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+    color: rgb(122, 102, 102);
+   
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dashed violet;
+    width: 400px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accurancy {
+    color: skyblue;
+}
